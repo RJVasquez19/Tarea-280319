@@ -1,0 +1,9 @@
+c:\users\jesusvasquez\documents\visual studio 2012\Projects\Tarea28032019\Tarea28032019\bin\Debug\Tarea28032019.exe.config
+c:\users\jesusvasquez\documents\visual studio 2012\Projects\Tarea28032019\Tarea28032019\bin\Debug\Tarea28032019.exe
+c:\users\jesusvasquez\documents\visual studio 2012\Projects\Tarea28032019\Tarea28032019\bin\Debug\Tarea28032019.pdb
+c:\users\jesusvasquez\documents\visual studio 2012\Projects\Tarea28032019\Tarea28032019\obj\Debug\Tarea28032019.csprojResolveAssemblyReference.cache
+c:\users\jesusvasquez\documents\visual studio 2012\Projects\Tarea28032019\Tarea28032019\obj\Debug\Tarea28032019.frmOperaciones.resources
+c:\users\jesusvasquez\documents\visual studio 2012\Projects\Tarea28032019\Tarea28032019\obj\Debug\Tarea28032019.Properties.Resources.resources
+c:\users\jesusvasquez\documents\visual studio 2012\Projects\Tarea28032019\Tarea28032019\obj\Debug\Tarea28032019.csproj.GenerateResource.Cache
+c:\users\jesusvasquez\documents\visual studio 2012\Projects\Tarea28032019\Tarea28032019\obj\Debug\Tarea28032019.exe
+c:\users\jesusvasquez\documents\visual studio 2012\Projects\Tarea28032019\Tarea28032019\obj\Debug\Tarea28032019.pdb
